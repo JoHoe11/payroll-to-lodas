@@ -1,0 +1,19 @@
+{
+    "name": "papaya",
+    "version": "1.0.0",
+    "description": "Pdf Analyzer",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "author": "JH11",
+    "license": "MIT",
+    "devDependencies": {
+        "sass": "^1.62.1",
+        "vite": "^6.3.5"
+    },
+    "dependencies": {
+        "date-fns": "^2.30.0"
+    }
+}
